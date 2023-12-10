@@ -11,7 +11,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 logging.basicConfig(level=logging.INFO)
 
 # Создаем объекты бота и диспетчера
-bot = Bot(token="6392757711:AAFzUPQErKxt7byopn2nBFwFpnNNcDKEmSE")
+bot = Bot(token="11111111111111111111")
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
 
